@@ -1,88 +1,43 @@
-Overview
+WantBoard Privacy Policy
 
-WantBoard (“the App”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how it is used, and how it is protected when you use the WantBoard iOS application.
+Last Updated: December 28, 2025
+
+Introduction
+
+WantBoard (“the App”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what information is collected, how it is used, and how it is protected when you use the WantBoard iOS application.
 
 Information We Collect
-Account Information
 
-When you sign in to WantBoard, we collect:
+When you create an account or sign in to WantBoard, we collect limited personal information necessary to operate the app. This includes your account identifier and email address. This information is used solely to identify your account and ensure correct access to subscription features.
 
-Account ID
+Subscription and Payment Information
 
-Email address
-
-This information is used solely to:
-
-Authenticate your account
-
-Associate your account with your subscription status
-
-Restore purchases and premium access across devices
-
-Subscription & Payment Information
-
-All payments are processed securely through Apple In-App Purchases.
-
-WantBoard does not collect or store payment card numbers, banking information, or billing details.
-
-Subscription status is managed using RevenueCat, which provides entitlement verification and subscription management.
+WantBoard offers optional premium subscriptions through Apple In-App Purchases. All payments are processed directly by Apple. WantBoard does not collect, store, or have access to payment card numbers, banking details, or billing information. Subscription status and entitlement verification are managed using RevenueCat.
 
 How We Use Your Information
 
-We use your information only to:
-
-Enable account sign-in
-
-Manage premium subscription access
-
-Provide customer support when requested
-
-We do not use your data for:
-
-Advertising
-
-Marketing
-
-Analytics
-
-Tracking across apps or websites
+The information we collect is used only to provide core app functionality. This includes authenticating your account, assigning and restoring subscription access, and providing customer support when requested. WantBoard does not use personal data for advertising, analytics, marketing, or tracking purposes.
 
 Data Sharing
 
-We do not sell, rent, or share your personal data with third parties.
-
-Your data may be processed by trusted service providers only as required to operate the app:
-
-Apple (authentication and payments)
-
-RevenueCat (subscription entitlement management)
-
-These providers are contractually obligated to protect your information.
+WantBoard does not sell, rent, or share your personal information with third parties. Limited data may be processed by trusted service providers, such as Apple and RevenueCat, strictly for authentication and subscription management. These providers are required to protect your information and use it only for the intended purpose.
 
 Data Retention
 
-We retain your account information only for as long as your account is active or as required to provide app functionality. You may request deletion of your account data at any time.
+Your account information is retained only for as long as necessary to provide app functionality or maintain an active account. If you request deletion of your account, associated personal data will be removed unless retention is required by law.
 
 User Rights
 
-You have the right to:
-
-Request access to your data
-
-Request correction or deletion of your data
-
-Withdraw consent by discontinuing use of the app
-
-To exercise these rights, contact us using the email below.
+You have the right to access, correct, or request deletion of your personal information. You may also withdraw consent by discontinuing use of the app. Requests regarding your data can be made using the contact information below.
 
 Children’s Privacy
 
-WantBoard is not directed toward children under the age of 13, and we do not knowingly collect personal information from children.
+WantBoard is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
-Security
+Data Security
 
-We take reasonable measures to protect your information using industry-standard security practices. However, no method of electronic storage is 100% secure.
+We take reasonable administrative and technical measures to protect your personal information. While no system can guarantee absolute security, we strive to safeguard your data against unauthorized access or misuse.
 
-Changes to This Policy
+Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Any changes will be reflected by updating the “Last Updated” date above.
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the “Last Updated” date at the top of this policy.
