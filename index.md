@@ -30,10 +30,6 @@ User Rights
 
 You have the right to access, correct, or request deletion of your personal information. You may also withdraw consent by discontinuing use of the app. Requests regarding your data can be made using the contact information below.
 
-Children’s Privacy
-
-WantBoard is not intended for children under the age of 13. We do not knowingly collect personal information from children.
-
 Data Security
 
 We take reasonable administrative and technical measures to protect your personal information. While no system can guarantee absolute security, we strive to safeguard your data against unauthorized access or misuse.
